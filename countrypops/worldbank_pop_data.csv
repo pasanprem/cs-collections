@@ -1,0 +1,269 @@
+﻿Data Source,World Development Indicators,,
+,,,
+Last Updated Date,09/04/2020,,
+,,,
+Country Name,Country Code,Region,2018
+Aruba,ABW,region,105845
+Afghanistan,AFG,region,37172386
+Angola,AGO,region,30809762
+Albania,ALB,region,2866376
+Andorra,AND,region,77006
+Arab World,ARB,region,419790588
+United Arab Emirates,ARE,region,9630959
+Argentina,ARG,region,44494502
+Armenia,ARM,region,2951776
+American Samoa,ASM,region,55465
+Antigua and Barbuda,ATG,region,96286
+Australia,AUS,region,24982688
+Austria,AUT,region,8840521
+Azerbaijan,AZE,region,9939800
+Burundi,BDI,region,11175378
+Belgium,BEL,region,11433256
+Benin,BEN,region,11485048
+Burkina Faso,BFA,region,19751535
+Bangladesh,BGD,region,161356039
+Bulgaria,BGR,region,7025037
+Bahrain,BHR,region,1569439
+"Bahamas, The",BHS,region,385640
+Bosnia and Herzegovina,BIH,region,3323929
+Belarus,BLR,region,9483499
+Belize,BLZ,region,383071
+Bermuda,BMU,region,63973
+Bolivia,BOL,region,11353142
+Brazil,BRA,region,209469333
+Barbados,BRB,region,286641
+Brunei Darussalam,BRN,region,428962
+Bhutan,BTN,region,754394
+Botswana,BWA,region,2254126
+Central African Republic,CAF,region,4666377
+Canada,CAN,region,37057765
+Central Europe and the Baltics,CEB,region,102511922
+Switzerland,CHE,region,8513227
+Channel Islands,CHI,region,170499
+Chile,CHL,region,18729160
+China,CHN,region,1392730000
+Cote d'Ivoire,CIV,region,25069229
+Cameroon,CMR,region,25216237
+"Congo, Dem. Rep.",COD,region,84068091
+"Congo, Rep.",COG,region,5244363
+Colombia,COL,region,49648685
+Comoros,COM,region,832322
+Cabo Verde,CPV,region,543767
+Costa Rica,CRI,region,4999441
+Caribbean small states,CSS,region,7358965
+Cuba,CUB,region,11338138
+Curacao,CUW,region,159800
+Cayman Islands,CYM,region,64174
+Cyprus,CYP,region,1189265
+Czech Republic,CZE,region,10629928
+Germany,DEU,region,82905782
+Djibouti,DJI,region,958920
+Dominica,DMA,region,71625
+Denmark,DNK,region,5793636
+Dominican Republic,DOM,region,10627165
+Algeria,DZA,region,42228429
+East Asia & Pacific (excluding high income),EAP,region,2081651801
+Early-demographic dividend,EAR,region,3249140605
+East Asia & Pacific,EAS,region,2328220870
+Europe & Central Asia (excluding high income),ECA,region,417797257
+Europe & Central Asia,ECS,region,918793590
+Ecuador,ECU,region,17084357
+"Egypt, Arab Rep.",EGY,region,98423595
+Euro area,EMU,region,341783171
+Eritrea,ERI,region,
+Spain,ESP,region,46796540
+Estonia,EST,region,1321977
+Ethiopia,ETH,region,109224559
+European Union,EUU,region,446786293
+Fragile and conflict affected situations,FCS,region,743958386
+Finland,FIN,region,5515525
+Fiji,FJI,region,883483
+France,FRA,region,66977107
+Faroe Islands,FRO,region,48497
+"Micronesia, Fed. Sts.",FSM,region,112640
+Gabon,GAB,region,2119275
+United Kingdom,GBR,region,66460344
+Georgia,GEO,region,3726549
+Ghana,GHA,region,29767108
+Gibraltar,GIB,region,33718
+Guinea,GIN,region,12414318
+"Gambia, The",GMB,region,2280102
+Guinea-Bissau,GNB,region,1874309
+Equatorial Guinea,GNQ,region,1308974
+Greece,GRC,region,10731726
+Grenada,GRD,region,111454
+Greenland,GRL,region,56025
+Guatemala,GTM,region,17247807
+Guam,GUM,region,165768
+Guyana,GUY,region,779004
+High income,HIC,region,1210312147
+"Hong Kong SAR, China",HKG,region,7451000
+Honduras,HND,region,9587522
+Heavily indebted poor countries (HIPC),HPC,region,780234406
+Croatia,HRV,region,4087843
+Haiti,HTI,region,11123176
+Hungary,HUN,region,9775564
+IBRD only,IBD,region,4772284113
+IDA & IBRD total,IBT,region,6412522234
+IDA total,IDA,region,1640238121
+IDA blend,IDB,region,555830605
+Indonesia,IDN,region,267663435
+IDA only,IDX,region,1084407516
+Isle of Man,IMN,region,84077
+India,IND,region,1352617328
+Not classified,INX,region,
+Ireland,IRL,region,4867309
+"Iran, Islamic Rep.",IRN,region,81800269
+Iraq,IRQ,region,38433600
+Iceland,ISL,region,352721
+Israel,ISR,region,8882800
+Italy,ITA,region,60421760
+Jamaica,JAM,region,2934855
+Jordan,JOR,region,9956011
+Japan,JPN,region,126529100
+Kazakhstan,KAZ,region,18272430
+Kenya,KEN,region,51393010
+Kyrgyz Republic,KGZ,region,6322800
+Cambodia,KHM,region,16249798
+Kiribati,KIR,region,115847
+St. Kitts and Nevis,KNA,region,52441
+"Korea, Rep.",KOR,region,51606633
+Kuwait,KWT,region,4137309
+Latin America & Caribbean (excluding high income),LAC,region,609013934
+Lao PDR,LAO,region,7061507
+Lebanon,LBN,region,6848925
+Liberia,LBR,region,4818977
+Libya,LBY,region,6678567
+St. Lucia,LCA,region,181889
+Latin America & Caribbean,LCN,region,641357515
+Least developed countries: UN classification,LDC,region,1009662578
+Low income,LIC,region,705417321
+Liechtenstein,LIE,region,37910
+Sri Lanka,LKA,region,21670000
+Lower middle income,LMC,region,3022905169
+Low & middle income,LMY,region,6383958209
+Lesotho,LSO,region,2108132
+Late-demographic dividend,LTE,region,2288665963
+Lithuania,LTU,region,2801543
+Luxembourg,LUX,region,607950
+Latvia,LVA,region,1927174
+"Macao SAR, China",MAC,region,631636
+St. Martin (French part),MAF,region,37264
+Morocco,MAR,region,36029138
+Monaco,MCO,region,38682
+Moldova,MDA,region,2706049
+Madagascar,MDG,region,26262368
+Maldives,MDV,region,515696
+Middle East & North Africa,MEA,region,448912859
+Mexico,MEX,region,126190788
+Marshall Islands,MHL,region,58413
+Middle income,MIC,region,5678540888
+North Macedonia,MKD,region,2082958
+Mali,MLI,region,19077690
+Malta,MLT,region,484630
+Myanmar,MMR,region,53708395
+Middle East & North Africa (excluding high income),MNA,region,382896715
+Montenegro,MNE,region,622227
+Mongolia,MNG,region,3170208
+Northern Mariana Islands,MNP,region,56882
+Mozambique,MOZ,region,29495962
+Mauritania,MRT,region,4403319
+Mauritius,MUS,region,1265303
+Malawi,MWI,region,18143315
+Malaysia,MYS,region,31528585
+North America,NAC,region,364290258
+Namibia,NAM,region,2448255
+New Caledonia,NCL,region,284060
+Niger,NER,region,22442948
+Nigeria,NGA,region,195874740
+Nicaragua,NIC,region,6465513
+Netherlands,NLD,region,17231624
+Norway,NOR,region,5311916
+Nepal,NPL,region,28087871
+Nauru,NRU,region,12704
+New Zealand,NZL,region,4841000
+OECD members,OED,region,1303529456
+Oman,OMN,region,4829483
+Other small states,OSS,region,30758989
+Pakistan,PAK,region,212215030
+Panama,PAN,region,4176873
+Peru,PER,region,31989256
+Philippines,PHL,region,106651922
+Palau,PLW,region,17907
+Papua New Guinea,PNG,region,8606316
+Poland,POL,region,37974750
+Pre-demographic dividend,PRE,region,919485393
+Puerto Rico,PRI,region,3195153
+"Korea, Dem. People’s Rep.",PRK,region,25549819
+Portugal,PRT,region,10283822
+Paraguay,PRY,region,6956071
+West Bank and Gaza,PSE,region,4569087
+Pacific island small states,PSS,region,2457367
+Post-demographic dividend,PST,region,1109997273
+French Polynesia,PYF,region,277679
+Qatar,QAT,region,2781677
+Romania,ROU,region,19466145
+Russian Federation,RUS,region,144478050
+Rwanda,RWA,region,12301939
+South Asia,SAS,region,1814388744
+Saudi Arabia,SAU,region,33699947
+Sudan,SDN,region,41801533
+Senegal,SEN,region,15854360
+Singapore,SGP,region,5638676
+Solomon Islands,SLB,region,652858
+Sierra Leone,SLE,region,7650154
+El Salvador,SLV,region,6420744
+San Marino,SMR,region,33785
+Somalia,SOM,region,15008154
+Serbia,SRB,region,6982604
+Sub-Saharan Africa (excluding high income),SSA,region,1078209758
+South Sudan,SSD,region,10975920
+Sub-Saharan Africa,SSF,region,1078306520
+Small states,SST,region,40575321
+Sao Tome and Principe,STP,region,211028
+Suriname,SUR,region,575991
+Slovak Republic,SVK,region,5446771
+Slovenia,SVN,region,2073894
+Sweden,SWE,region,10175214
+Eswatini,SWZ,region,1136191
+Sint Maarten (Dutch part),SXM,region,40654
+Seychelles,SYC,region,96762
+Syrian Arab Republic,SYR,region,16906283
+Turks and Caicos Islands,TCA,region,37665
+Chad,TCD,region,15477751
+East Asia & Pacific (IDA & IBRD countries),TEA,region,2056064424
+Europe & Central Asia (IDA & IBRD countries),TEC,region,459865205
+Togo,TGO,region,7889094
+Thailand,THA,region,69428524
+Tajikistan,TJK,region,9100837
+Turkmenistan,TKM,region,5850908
+Latin America & the Caribbean (IDA & IBRD countries),TLA,region,625569713
+Timor-Leste,TLS,region,1267972
+Middle East & North Africa (IDA & IBRD countries),TMN,region,378327628
+Tonga,TON,region,103197
+South Asia (IDA & IBRD),TSA,region,1814388744
+Sub-Saharan Africa (IDA & IBRD countries),TSS,region,1078306520
+Trinidad and Tobago,TTO,region,1389858
+Tunisia,TUN,region,11565204
+Turkey,TUR,region,82319724
+Tuvalu,TUV,region,11508
+Tanzania,TZA,region,56318348
+Uganda,UGA,region,42723139
+Ukraine,UKR,region,44622516
+Upper middle income,UMC,region,2655635719
+Uruguay,URY,region,3449299
+United States,USA,region,326687501
+Uzbekistan,UZB,region,32955400
+St. Vincent and the Grenadines,VCT,region,110210
+"Venezuela, RB",VEN,region,28870195
+British Virgin Islands,VGB,region,29802
+Virgin Islands (U.S.),VIR,region,106977
+Vietnam,VNM,region,95540395
+Vanuatu,VUT,region,292680
+World,WLD,region,7594270356
+Samoa,WSM,region,196130
+Kosovo,XKX,region,1845300
+"Yemen, Rep.",YEM,region,28498687
+South Africa,ZAF,region,57779622
+Zambia,ZMB,region,17351822
+Zimbabwe,ZWE,region,14439018
